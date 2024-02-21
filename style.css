@@ -35,7 +35,7 @@ header.theme-dark h2 { color: var(--red-100) }
 
 .carousel {
     position: relative;
-    width: 60%; /* Ajuste a largura conforme necessário */
+    width: 30%; /* Ajuste a largura conforme necessário */
     margin: 0 auto;
     overflow: hidden;
     /* margin-top: 20px;
